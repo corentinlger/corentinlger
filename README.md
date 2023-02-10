@@ -5,7 +5,7 @@ Hi, I am Corentin, an engeneering student specialized in artificial intelligence
 I am currently focusing on Reinforcement Learning and its combiniation with other techniques (Symbolic AI, Deep Learning...), so don't hesitate to contact me if you have any questions or want to collaborate on projects related. Thanks for reading !
 
 - 📫 How to reach me: [coleger@ensc.fr](coleger@ensc.fr)
-- 📄 Check my website: [corentinlger.github.io](corentinlger.github.io)
+- 📄 Check my website: [https://corentinlger.github.io](https://corentinlger.github.io)
 
 
 <!--
