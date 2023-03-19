@@ -1,8 +1,8 @@
-### Welcome on my GitHub ✨
+### Welcome on my GitHub 
 
 Hi, I am Corentin, an engeneering student specialized in artificial intelligence. I am particularly interested in cognitive and social sciences (neurosciences, psychology, sociology...) and AI (Machine learning, Evolutionnary Algorithms..) and would love to contribute in projects involving both of these fields !
 
-I am currently focusing on Reinforcement Learning and its combiniation with other techniques (Symbolic AI, Deep Learning, Meta-Learning...), so don't hesitate to contact me if you have any questions or want to collaborate on projects related. Thanks for reading !
+I am currently focusing on Reinforcement Learning and its combiniation with other méthodes (Symbolic AI, Meta-Learning...), so don't hesitate to contact me if you have any questions or want to collaborate on projects related. Thanks for reading ! 
 
 - 📫 How to reach me: [coleger@ensc.fr](coleger@ensc.fr)
 - 📄 Check my website: [https://corentinlger.github.io](https://corentinlger.github.io)
