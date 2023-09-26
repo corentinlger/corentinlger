@@ -1,9 +1,9 @@
 ### Welcome on my GitHub 
 
-Hi, I am Corentin, a french AI research engineer with a strong focus on Reinforcement Learning. I'm also really interested in cognitive sciences, so don't hesitate to contact me if you have any questions or want to collaborate on projects related to those fields ! 
+Hi, I am Corentin, an AI engineer with a strong focus on Machine Learning and Reinforcement Learning. I'm also really interested in cognitive sciences, so don't hesitate to contact me if you have any questions or want to collaborate on projects related to those fields ! 
 
-- 📫 How to reach me: [coleger@ensc.fr](coleger@ensc.fr)
-- 📄 Check my website: [https://corentinlger.github.io](https://corentinlger.github.io)
+- How to reach me: [coleger@ensc.fr](coleger@ensc.fr)
+- My website: [https://corentinlger.github.io](https://corentinlger.github.io)
 
 <!--
 **corentinlger/corentinlger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
